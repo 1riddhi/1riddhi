@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Riddhi
-   🔭 I’m currently working on PHP project.
+   👨‍💻 Competitive Programmer
+   🔭 I’m currently working on a PHP project.
+   🌱 I’m currently learning Javascript and PHP.
 <!--
 **1riddhi/1riddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
