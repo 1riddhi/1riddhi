@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riddhi Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **a PHP project**
-
 - 🌱 I’m currently learning **JavaScript and PHP.**
 
 - 📫 How to reach me **riddhiprajapati212@gmail.com**
